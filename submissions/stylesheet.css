@@ -1,0 +1,58 @@
+* {
+    background-color: lightgreen
+}
+
+ img {
+    height: 200px;
+    width: 300px;
+    border: 1px solid #4682b4;
+}
+p img {
+   height: 100px;
+   width: 150px;
+   border: 1px solid #4682b4;
+}
+ul li {
+    font-size: 24px;
+    color: #4a4943;
+    font-family: Verdana, sans-serif;
+
+}
+
+ol li {
+    font-size: 20px;
+    color: #4a4943;
+    font-family: Garamond, serif;
+
+}
+ul ul li {
+    font-size: 20px;
+    color: darkblue;
+    font-family: Garamond, serif;
+}
+
+.school {
+    font-size: 18px;
+    color: red;
+    text-align: center;
+}
+#advisor3 {
+    background-color: lightblue;
+    text-align: center;
+}
+#advisor2 {
+    background-color: lightpink;
+    text-align: center;
+}
+#advisor1 {
+    background-color: lightyellow;
+    text-align: center;
+}
+.degree {
+    font-size: 16px;
+    color: purple;
+
+}
+a {
+text-decoration: none;
+color: orange;}
